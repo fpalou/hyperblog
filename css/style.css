@@ -39,4 +39,8 @@ body
 #post{
     background: rgb(90, 4, 4);
     padding: 1em;
+#footer{
+    background: hotpink;
+    color: white;
+    text-align: center;
 }
